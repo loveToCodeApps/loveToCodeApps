@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Thorat</h1>
 <h3 align="center">A passionate android developer from India</h3>
+<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/522522daf8b5c0871a2cd66d0f423919.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovetocodeapps&label=Profile%20views&color=0e75b6&style=flat" alt="lovetocodeapps" /> </p>
 
