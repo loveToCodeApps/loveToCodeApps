@@ -1,3 +1,4 @@
+![](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sagar Thorat</h1>
 <h3 align="center">A passionate android developer from India</h3>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/522522daf8b5c0871a2cd66d0f423919.gif">
